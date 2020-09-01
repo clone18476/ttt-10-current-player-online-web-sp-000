@@ -3,7 +3,7 @@ def turn_count(board)
   count = 1
   board.each do |turn|
   end 
-    return "#{turn}"
+    return "#{count}"
 end 
 
 
