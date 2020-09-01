@@ -2,7 +2,7 @@
 def turn_count(board)
   count = 1    # counts occupied positions
   board.each do |turn|
-    count[turn]
+    count[turn.to_i]
   end 
     return count
 end 
