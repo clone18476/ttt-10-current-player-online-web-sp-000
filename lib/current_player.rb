@@ -2,6 +2,7 @@
 def turn_count(board)
   count = 1
   board.each do |turn|
+    count += 1 
     return "#{turn}"
   end 
 end 
