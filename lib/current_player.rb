@@ -8,7 +8,7 @@ def turn_count(board)
 end 
 
 
-if array[] = "X" || array[] = "O"
+if board[turn] = "X" || board[turn] = "O"
   count += 1 
 end 
   
