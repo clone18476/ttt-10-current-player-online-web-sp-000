@@ -10,10 +10,6 @@ def turn_count(board)
 end 
 
 
-if board[turn] = "X" || board[turn] = "O"
-  count += 1 
-end 
-  
 
 
 
