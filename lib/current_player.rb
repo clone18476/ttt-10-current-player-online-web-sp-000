@@ -7,7 +7,9 @@ def turn_count(board)
     return count
 end 
 
-
+if array[] = "X" || array[] = "O"
+  count += 1 
+  
 
 
 
